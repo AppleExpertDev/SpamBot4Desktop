@@ -1,4 +1,4 @@
-## Installation
+## Installation via Command Line
 ```
 git clone https://github.com/AppleExpertDev/SpamBot4Desktop.git
 cd Desktop or any location that you like the spambot folder to be in.
@@ -6,27 +6,21 @@ cd SpamBot4Desktop
 pip3 install requirements.txt
 python3 SpamBot4Desktop.py
 ```
+You can copy the commands and paste into terminal.
+
 Install PIP:
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python3 get-pip.py
-pip3 —version
-
-—————
-SpamBot Install:
-git clone https://github.com/Assassinumz/spambot.git
-cd spambot
-python spambot.py
-
+Type: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+Then: python3 get-pip.py
+Then type: pip3 —version
 
 Install Requirements for SpamBot4Desktop:
-pip3 install keyboard
-pip3 install pyautogui
+Type: pip3 install keyboard; pip3 install pyautogui
 
-Install GIT:
-git --version
+Install git:
+Type: git --version
 
 Homebrew Method:
-brew install git
+Type: brew install git
 
 Install Homebrew:
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+Type: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
